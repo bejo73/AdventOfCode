@@ -1,8 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-Day01.Run();
-//Day99.Run();
+﻿Day01.Run(); // Sonar Sweep
 
 Console.WriteLine("Merry Christmas...");
-Console.ReadKey();
