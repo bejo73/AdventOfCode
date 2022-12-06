@@ -8,5 +8,10 @@
 //Day08.Run(); // Seven Segment Search
 //Day09.Run();
 //Day10.Run(); // Syntax Scoring
+//Day11.Run();
+//Day13.Run();
+//Day14.Run();
+Day15.Run();
+//Day21.Run();
 
 Console.WriteLine("Merry Christmas...");
